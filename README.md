@@ -1,9 +1,3 @@
-- 👋 大家好，我是胖蔡
-- 👀 我感兴趣的领域是前端开发
-- 💞️ 我致力于网站开发方向，希望能做出正向贡献
-- 📫 大家可以访问：www.enjoytoday.cn 来联系我
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=amikoj&theme=vue-dark&show_icons=true&hide=contribs&hide_title=true&count_private=true&hide_border=true)
 
-<!---
-amikoj/amikoj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![My GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amikoj&layout=compact&theme=vue-dark&hide_border=true&hide_title=true)
